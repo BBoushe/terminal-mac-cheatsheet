@@ -18,7 +18,7 @@ This cheatsheet is available in many languages. Since the translation rely on vo
 - [繁體中文版](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/繁體中文)
 - [Bahasa Indonesia](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/Indonesia)
 - [Deutsch](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/Deutsch)
-
+- [Македонска верзија](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/Македонски)
 ## English Version
 
 _Letters are shown capitalized for readability only._  _Capslock should be off._
